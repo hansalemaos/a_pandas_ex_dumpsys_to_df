@@ -1,3 +1,7 @@
+# Use:
+# https://github.com/hansalemaos/usefuladb
+# https://github.com/hansalemaos/usefuladbplus
+
 # ADB dumpsys package to Pandas DataFrame
 
 
